@@ -1,0 +1,38 @@
+---
+en:
+  admin:
+    announcements:
+      add_new: Add new
+      body: Announcement body. You can use HTML tags
+      delete_it: Delete
+      edit:
+        submit: Update announcement
+        title: Edit announcement
+      edit_it: Edit
+      form:
+        hint:
+          body: Linebrake will be ignored.
+          order: Descending order
+        links:
+          text: Link text
+          url: URL
+      links: Links
+      new:
+        submit: Create announcement
+        title: Add new announcement
+      order: Order
+      title: Announcement
+  favourite_tags:
+    delete_it: delete
+    edit:
+      submit: Update favourite tag
+      title: Edit favourite tag
+    edit_it: edit
+    form:
+      hint:
+        order: Display in descending order
+    name_of_tag: Name of tag
+    order: order
+    submit: Create favourite tag
+  settings:
+    favourite_tags: Favourite tags

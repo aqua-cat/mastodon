@@ -208,27 +208,6 @@ en:
         update_status: "%{name} updated status by %{target}"
       deleted_status: "(deleted status)"
       title: Audit log
-    announcements:
-      add_new: Add new
-      body: Announcement body. You can use HTML tags
-      delete_it: Delete
-      edit:
-        submit: Update announcement
-        title: Edit announcement
-      edit_it: Edit
-      form:
-        hint:
-          body: Linebrake will be ignored.
-          order: Descending order
-        links:
-          text: Link text
-          url: URL
-      links: Links
-      new:
-        submit: Create announcement
-        title: Add new announcement
-      order: Order
-      title: Announcement
     custom_emojis:
       by_domain: Domain
       copied_msg: Successfully created local copy of the emoji
@@ -610,18 +589,6 @@ en:
     lists: Lists
     mutes: You mute
     storage: Media storage
-  favourite_tags:
-    delete_it: delete
-    edit:
-      submit: Update favourite tag
-      title: Edit favourite tag
-    edit_it: edit
-    form:
-      hint:
-        order: Display in descending order
-    name_of_tag: Name of tag
-    order: order
-    submit: Create favourite tag
   filters:
     contexts:
       home: Home timeline
@@ -835,7 +802,6 @@ en:
     development: Development
     edit_profile: Edit profile
     export: Data export
-    favourite_tags: Favourite tags
     followers: Authorized followers
     import: Import
     migrate: Account migration

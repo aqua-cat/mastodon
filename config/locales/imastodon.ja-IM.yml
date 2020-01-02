@@ -1,0 +1,38 @@
+---
+ja-IM:
+  admin:
+    announcements:
+      add_new: 新規追加
+      body: 本文。HTMLタグが使えます
+      delete_it: 削除
+      edit:
+        submit: お知らせを変更
+        title: お知らせの編集
+      edit_it: 編集
+      form:
+        hint:
+          body: 改行は無視されます
+          order: 大きい順
+        links:
+          text: リンク文
+          url: URL
+      links: リンク
+      new:
+        submit: お知らせを作成
+        title: 新規お知らせの追加
+      order: 順序
+      title: お知らせ設定
+  favourite_tags:
+    delete_it: 削除
+    edit:
+      submit: お気に入りタグを変更
+      title: お気に入りタグの編集
+    edit_it: 編集
+    form:
+      hint:
+        order: 降順に表示されます
+    name_of_tag: タグ名
+    order: 順序
+    submit: お気に入りタグを登録
+  settings:
+    favourite_tags: お気に入りタグ
